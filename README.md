@@ -19,3 +19,5 @@ A React web app that searches the [OMDB database](http://www.omdbapi.com/) for m
    ```
 \
 Enjoy your movie search! 🍿
+
+\* Made with the help of [JS Mastery](https://www.youtube.com/@javascriptmastery).
