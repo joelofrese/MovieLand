@@ -1,6 +1,7 @@
 # 🎬 Movie Search Web App
 
 A React web app that searches the [OMDB database](http://www.omdbapi.com/) for movies and series, and presents the results to the user.
+\* Deployed to AWS Amplify [here](https://main.d3735dr4arytbp.amplifyapp.com), but OMDP API doesn't allow authentication from AWS Amplify, so it cannot fetch movie data.
 
 ## Prerequisites
 
