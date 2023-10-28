@@ -17,4 +17,5 @@ A React web app that searches the [OMDB database](http://www.omdbapi.com/) for m
    ```bash
    npm start
    ```
+\
 Enjoy your movie search! 🍿
